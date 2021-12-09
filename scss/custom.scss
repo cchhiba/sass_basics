@@ -1,0 +1,21 @@
+// custom scss
+$fresh-white: rgb(255, 255, 255);
+
+
+body {
+  background-color: black;
+  margin: 20px 50px;
+  max-width: 40%;
+font-family: 'Roboto', sans-serif;
+}
+
+
+ div {
+  color: $fresh-white;
+}
+
+  img {
+  max-width: 45%;
+  max-height:45%;
+  float: right;
+}
